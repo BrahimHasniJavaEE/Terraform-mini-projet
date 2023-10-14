@@ -1,7 +1,8 @@
 Mini projet : : Déployez une infra complète
 Formation Terraform 
 centre de Formation : EazyTraining
-Formateur : Ulrich Steve NOUMSI 
+Formateur : Ulrich Monji
+ 
 
 
   * Ecrivez un module pour créer une instance ec2 utilisant la dernière version de ubuntu bionic qui :
