@@ -1,7 +1,7 @@
 Mini projet : : Déployez une infra complète
 Formation Terraform 
 centre de Formation : EazyTraining
-Formateur : Ulrich Monji
+Formateur : Ulrich NOUMSI 
  
 
 
